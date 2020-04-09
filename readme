@@ -1,0 +1,4 @@
+clone url <https://github.com/novice-manu/elocals.git> in Eclipse using Git-> clone uri option
+right click on the maven project and run as java application.
+open postman hit below url for testing
+localhost:8080/news/sources?category=general
